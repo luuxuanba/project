@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html/luuxuanba":{"guestpath":"/var/www/html/luuxuanba","hostpath":"C:/Users/ba.lx/laravel/luuxuanba","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/ba.lx/laravel","disabled":false,"__vagrantfile":true}}}
